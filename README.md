@@ -6,4 +6,4 @@ Programming, game design and some art done by me
 
 Some music and art done by @Webcoder49
 
-ITCH.IO LINK: 
+ITCH.IO LINK: https://datman101.itch.io/vector-prime
